@@ -1,0 +1,5 @@
+file1 = open("my_file.txt","r+")
+writen_file = file1.write("\nhi ")
+print(writen_file)
+# print(file1.read())
+file1.close()
