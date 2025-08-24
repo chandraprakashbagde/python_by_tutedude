@@ -1,6 +1,6 @@
 # ASSINMENT 3
 
-📌 Repository: [GitHub Link](https://github.com/your-username/your-repo-name)
+📌 Repository: [GitHub Link](https://github.com/chandraprakashbagde/python_by_tutedude)
 
 This repository contains simple Python programs to practice fundamental programming concepts.  
 Each task is implemented as a separate Python file and explained in this document.
